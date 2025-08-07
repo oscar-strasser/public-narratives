@@ -8,12 +8,9 @@ cover-image: https://picsum.photos/id/53/800/600
 
 ## testing_narrative_editor
 
-Text content
 
-## Section A
-Text content
+## Map Tour Example <!--{ as="eox-map" mode="tour" }-->
 
-## Section B
-Text content
-        
-## Map Example <!--{as="eox-map" style="width: 100%; height: 500px;" layers='[ { "type": "Tile", "properties": { "id": "TOPO-WMS" }, "source": { "type": "TileWMS", "url": "https://ows.mundialis.de/services/service", "params": { "LAYERS": "TOPO-WMS" } } } ]' zoom="2" center=[15,48] }-->
+### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[18,46] zoom="5" animationOptions="{duration:500}" }-->
+#### Tour Title
+Some description for tour 1
