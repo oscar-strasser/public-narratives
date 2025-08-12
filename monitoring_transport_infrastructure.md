@@ -42,8 +42,7 @@ The points are color-coded, with white points showing no significant deformation
 
 The basic functionality Web-based Geographical Information System (WebGIS) is illustrated here. The WebGIS will be access-controlled for an authorized group of users. 
 	
-<div class="ol-viewport" style="position: relative; overflow: hidden; width: 100%; height: 100%;"><div class="ol-unselectable ol-layers" style="position: absolute; width: 100%; height: 100%; z-index: 0;"><div class="ol-layer" style="position: absolute; width: 100%; height: 100%;"><canvas width="1926" height="1170" style="position: absolute; left: 0px; transform-origin: left top; transform: matrix(0.8, 0, 0, 0.8, 0.1, 0);"></canvas></div></div><div class="ol-overlaycontainer" style="position: absolute; z-index: 0; width: 100%; height: 100%; pointer-events: none;"></div><div class="ol-overlaycontainer-stopevent" style="position: absolute; z-index: 0; width: 100%; height: 100%; pointer-events: none;"><div class="eox-map-tooltip" style="position: absolute; pointer-events: auto; display: none;"><eox-map-tooltip style="visibility: visible;"></eox-map-tooltip></div><div class="ol-attribution ol-unselectable ol-control ol-collapsed" style="pointer-events: auto;"><button type="button" aria-expanded="false" title="Attributions"><span class="ol-attribution-expand">i</span></button><ul><li>{ EOxCloudless 2022: <a href="//s2maps.eu" target="_blank">Sentinel-2 cloudless - s2maps.eu</a> by <a href="//eox.at" target="_blank">EOX IT Services GmbH</a> (Contains modified Copernicus Sentinel data 2022) }</li><li>{ Overlay: Data © <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors, Made with Natural Earth, Rendering © <a href="//eox.at" target="_blank">EOX</a> }</li></ul></div></div></div>
-(c) 2025 AIT
+<a href="//s2maps.eu" target="_blank">Sentinel-2 cloudless - s2maps.eu</a>
 
 	
 	
