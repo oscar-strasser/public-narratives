@@ -28,7 +28,7 @@ The Deformation Monitoring of Critical Infrastructure (DMCI) Capability is the s
 
 ### DMCI Map
 
-The DMCI Map visualizes the movements of road or railway segments observed by InSAR satellites in a straightforward and easily interpretable manner. The line of sight data available is transformed into vertical displacements and an average value is calculated for all persistent scatterers within a segment of 50m length. The available information is thus merged into one dataset.  This dataset includes:
+The DMCI Map visualizes the movements of road or railway segments observed by InSAR satellites in a straightforward and easily interpretable manner. The line of sight data available is transformed into vertical displacements and an average value is calculated for all persistent scatterers withn a segment of 50m length. The available information is thus merged into one dataset.  This dataset includes:
 * the classification of the point (road, railway, bridge, tunnel, etc.)
 * the reliability of the point, as expressed by the number of available persistent scatterers within the segment,
 * the evaluation result wether the point shows no anomalies, is subjected to settlement or uplift or no assessment is possible due to insufficient or inconsistent data,
@@ -43,6 +43,8 @@ The points are color-coded, with white points showing no significant deformation
 The basic functionality Web-based Geographical Information System (WebGIS) is illustrated here. The WebGIS will be access-controlled for an authorized group of users. 
 	
 <a href="//s2maps.eu" target="_blank">Sentinel-2 cloudless - s2maps.eu</a>
+
+
 
 	
 	
