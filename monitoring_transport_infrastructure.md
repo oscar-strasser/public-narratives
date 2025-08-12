@@ -42,7 +42,7 @@ The points are color-coded, with white points showing no significant deformation
 
 The basic functionality Web-based Geographical Information System (WebGIS) is illustrated here. The WebGIS will be access-controlled for an authorized group of users. 
 	
-<a href="//s2maps.eu" target="_blank">Sentinel-2 cloudless - s2maps.eu</a>
+<iframe src="https://gtif-austria.info/explore?x=9.6856&y=47.3705&z=11.8801&datetime=2025-01-01&template=light&indicator=predictive_maintenance" width="650" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 
