@@ -42,7 +42,7 @@ The points are color-coded, with white points showing no significant deformation
 
 The basic functionality Web-based Geographical Information System (WebGIS) is illustrated here. The WebGIS will be access-controlled for an authorized group of users. 
 	
-<iframe src="https://gtif-austria.info/explore?x=9.6697&y=47.3660&z=12.4107&datetime=2025-01-01&template=light&indicator=predictive_maintenance" width="650" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://gtif-austria.info/explore?x=9.6848&y=47.3859&z=12.7771&datetime=2025-01-01&template=light&indicator=predictive_maintenance" width="650" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" position></iframe>
 
 	
 ### APIs 
