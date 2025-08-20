@@ -30,3 +30,5 @@ Since our AirBnB was located in Benidorm and we were only able to check in after
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[-0.125648,38.568131] zoom="18" animationOptions="{duration:500}" }-->
 #### Exploring the rental
 Of course the first thing we did after arriving at our place, was to split up the bedrooms. I got pretty lucky, only having to share a room with one other person. We spent the remaining days of our vacation migrating between Benidorm and our amazing pool. On the morning of the final day, our host drove us to the airport.
+	
+test
