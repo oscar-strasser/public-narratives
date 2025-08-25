@@ -35,3 +35,9 @@ Of course the first thing we did after arriving at our place, was to split up th
 #### Flying home
 After our flight got delayed by 2 hours, we luckily didn't run into any additional trouble and made it back to Austria safely.
 
+## <center>Highlights<center/>
+
+### 
+## Photo of Benidorm <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/oscar-strasser/public-narratives/oscar-strasser/narrativ-zur-maturareise/assets/oscar-strasser/IMG2420-1756133049520.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/29509e29f6b6e1005b3713fdf6bd88b4d3ffc32c/assets/IMG2420-1756133049520.jpg" style="width: 100%; height: 600px;"}-->
+
+## Photo of Benidorm <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/oscar-strasser/public-narratives/oscar-strasser/narrativ-zur-maturareise/assets/oscar-strasser/IMG2434-1756132935506.jpg" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/75e6e8ceee336ff572742952ce756ba1c392f3d9/assets/IMG2434-1756132935506.jpg" style="width: 100%; height: 600px;"}-->
