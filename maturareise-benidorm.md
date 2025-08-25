@@ -33,5 +33,5 @@ Of course the first thing we did after arriving at our place, was to split up th
 
 ### <!--{ layers='[{"type":"Tile","properties":{"id":"osm"},"source":{"type":"OSM"}}]' center=[-0.558035,38.284437] zoom="14" animationOptions="{duration:500}" }-->
 #### Flying home
-After our flight got delayed by 2 hours...
+After our flight got delayed by 2 hours, we luckily didn't run into any additional trouble and made it back to Austria safely.
 
