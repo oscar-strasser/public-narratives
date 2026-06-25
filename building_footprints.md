@@ -86,7 +86,7 @@ For the same area, the Pleiades image (0.5m resolution) ordered by ubicube shows
 
 The building footprints algorithm provides probability maps in a first step (colorful). Comparison to existing building stock data shows huge differences. 
 
-![Bild11](https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fdede)
+![Bild11](https://github.com/user-attachments/assets/736dfcf6-0de4-429f-95a4-17ee496fded)
 
 ### 3D Building Stock Integration
 
